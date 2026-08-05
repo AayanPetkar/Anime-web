@@ -4,7 +4,8 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { AvatarPicker } from './AvatarPicker';
 import { FormField } from '@/components/auth';
-import { ProfileService, validateUsername, type UserProfileDoc } from '@/features/profile';
+import { ProfileService, type UserProfileDoc } from '@/features/profile';
+import { validateUsername } from '@/features/auth';
 import { allSkills } from '@/data/skills';
 
 interface EditProfileModalProps {

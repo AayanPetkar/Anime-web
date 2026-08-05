@@ -1,0 +1,46 @@
+{
+  "id": "naruto-chidori",
+  "anime": "Naruto",
+  "animeSlug": "naruto",
+  "name": "Chidori",
+  "difficulty": "Advanced",
+  "description": "A concentrated burst of chakra is channeled into one hand, held low and to the side before a forward charging thrust.",
+  "estimatedLearningTimeMinutes": 10,
+  "previewAsset": "/images/skills/naruto/chidori-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Crouch slightly into a forward-leaning stance.",
+      "pose": "naruto-chidori-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Draw one hand back at hip height, fingers together and rigid.",
+      "pose": "naruto-chidori-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Angle the wrist so the palm faces forward, blade-like.",
+      "pose": "naruto-chidori-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Bend the front knee and shift weight onto your lead foot.",
+      "pose": "naruto-chidori-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Drive the hand forward in a single straight thrust on release.",
+      "pose": "naruto-chidori-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "naruto-chidori-pose-1",
+    "naruto-chidori-pose-2",
+    "naruto-chidori-pose-3",
+    "naruto-chidori-pose-4",
+    "naruto-chidori-pose-5"
+  ],
+  "completionEffect": "lightning-hand",
+  "xpReward": 220
+}

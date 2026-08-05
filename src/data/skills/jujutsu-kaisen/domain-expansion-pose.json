@@ -1,0 +1,46 @@
+{
+  "id": "jujutsu-kaisen-domain-expansion-pose",
+  "anime": "Jujutsu Kaisen",
+  "animeSlug": "jujutsu-kaisen",
+  "name": "Domain Expansion Pose",
+  "difficulty": "Advanced",
+  "description": "A ritual stance projects an inescapable field around the user, built on precise hand positioning and total stillness.",
+  "estimatedLearningTimeMinutes": 13,
+  "previewAsset": "/images/skills/jujutsu-kaisen/domain-expansion-pose-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand centered with both feet together.",
+      "pose": "jujutsu-kaisen-domain-expansion-pose-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Bring both hands together in front of your chest, forming a shape.",
+      "pose": "jujutsu-kaisen-domain-expansion-pose-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Hold completely still, focusing your gaze forward.",
+      "pose": "jujutsu-kaisen-domain-expansion-pose-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Sweep both arms outward as if unveiling a space around you.",
+      "pose": "jujutsu-kaisen-domain-expansion-pose-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Return to a grounded, still stance to hold the domain.",
+      "pose": "jujutsu-kaisen-domain-expansion-pose-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "jujutsu-kaisen-domain-expansion-pose-pose-1",
+    "jujutsu-kaisen-domain-expansion-pose-pose-2",
+    "jujutsu-kaisen-domain-expansion-pose-pose-3",
+    "jujutsu-kaisen-domain-expansion-pose-pose-4",
+    "jujutsu-kaisen-domain-expansion-pose-pose-5"
+  ],
+  "completionEffect": "void-expansion-purple",
+  "xpReward": 300
+}

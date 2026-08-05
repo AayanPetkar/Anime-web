@@ -1,0 +1,20 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // users/{uid} — profile/identity/settings. Only the owner may read or
+    // write their own document; nobody can read another user's profile.
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // progress/{uid} — XP, completed skills, ranks, practice history (the
+    // single blob FirebaseStorageAdapter reads/writes). Same owner-only rule.
+    match /progress/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Everything else is denied by default (no catch-all allow rule).
+  }
+}

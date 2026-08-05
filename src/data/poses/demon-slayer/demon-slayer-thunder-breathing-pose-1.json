@@ -1,0 +1,14 @@
+{
+  "id": "demon-slayer-thunder-breathing-pose-1",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 25,
+    "rightShoulder": 25,
+    "leftKnee": 118,
+    "rightKnee": 118
+  },
+  "toleranceDeg": 28,
+  "torsoLean": 14,
+  "orientation": "front"
+}

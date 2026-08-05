@@ -1,0 +1,46 @@
+{
+  "id": "bleach-getsuga-tenshou",
+  "anime": "Bleach",
+  "animeSlug": "bleach",
+  "name": "Getsuga Tensh\u014d",
+  "difficulty": "Advanced",
+  "description": "A single downward sword swing channels spiritual pressure outward as a crescent-shaped wave of energy.",
+  "estimatedLearningTimeMinutes": 10,
+  "previewAsset": "/images/skills/bleach/getsuga-tenshou-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Hold an imaginary blade in both hands, raised overhead.",
+      "pose": "bleach-getsuga-tenshou-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Plant your lead foot forward for a stable base.",
+      "pose": "bleach-getsuga-tenshou-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Draw the blade back slightly as if loading the swing.",
+      "pose": "bleach-getsuga-tenshou-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Swing downward in one committed diagonal arc.",
+      "pose": "bleach-getsuga-tenshou-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Follow through low, extending the arms fully.",
+      "pose": "bleach-getsuga-tenshou-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "bleach-getsuga-tenshou-pose-1",
+    "bleach-getsuga-tenshou-pose-2",
+    "bleach-getsuga-tenshou-pose-3",
+    "bleach-getsuga-tenshou-pose-4",
+    "bleach-getsuga-tenshou-pose-5"
+  ],
+  "completionEffect": "slash-wave-black",
+  "xpReward": 230
+}

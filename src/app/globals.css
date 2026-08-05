@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: theme('colors.background');
+  color: #e6e8f0;
+  height: 100%;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: theme('colors.neon.blue') theme('colors.surface');
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@layer components {
+  .neon-text {
+    @apply text-neon-blue drop-shadow-[0_0_10px_rgba(62,198,255,0.8)];
+  }
+
+  .neon-card {
+    @apply bg-surface/80 border border-neon-blue/20 rounded-2xl backdrop-blur-md
+      shadow-glow transition-all duration-300 hover:border-neon-blue/60 hover:shadow-glow-lg;
+  }
+
+  .btn-primary {
+    @apply px-8 py-3 rounded-xl font-display font-semibold tracking-wide
+      bg-gradient-to-r from-neon-blue to-neon-purple text-background
+      shadow-glow hover:shadow-glow-lg transition-all duration-300;
+  }
+
+  .btn-ghost {
+    @apply px-8 py-3 rounded-xl font-display font-semibold tracking-wide
+      border border-white/15 text-white/90 backdrop-blur-md bg-white/5
+      hover:border-neon-blue/60 hover:text-neon-blue transition-all duration-300;
+  }
+
+  /* Glassmorphism panel used by navbar + skill cards */
+  .glass-panel {
+    @apply bg-white/[0.04] backdrop-blur-xl border border-white/10;
+  }
+
+  /* Perspective grid floor for the cyberpunk background */
+  .grid-floor {
+    background-image:
+      linear-gradient(rgba(62, 198, 255, 0.18) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(62, 198, 255, 0.18) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+
+  /* Gradient text for headings */
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-neon-blue via-neon-purple to-neon-pink;
+  }
+
+  /* Animated sweep border wrapper — child needs relative + z-10 */
+  .sweep-border {
+    position: relative;
+    isolation: isolate;
+  }
+  .sweep-border::before {
+    content: '';
+    position: absolute;
+    inset: -30%;
+    border-radius: inherit;
+    background: conic-gradient(
+      from 0deg,
+      transparent 0%,
+      var(--sweep-color, #3ec6ff) 4%,
+      transparent 12%
+    );
+    filter: blur(14px);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    z-index: -1;
+    animation: sweepRotate 3s linear infinite paused;
+  }
+  .sweep-border:hover::before {
+    opacity: 0.8;
+    animation-play-state: running;
+  }
+}
+
+@keyframes sweepRotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes gridDrift {
+  from { background-position: 0 0; }
+  to { background-position: 0 48px; }
+}
+
+@keyframes titleFlicker {
+  0%, 100% { opacity: 1; }
+  92% { opacity: 1; }
+  93% { opacity: 0.82; }
+  94% { opacity: 1; }
+  96% { opacity: 0.9; }
+  97% { opacity: 1; }
+}

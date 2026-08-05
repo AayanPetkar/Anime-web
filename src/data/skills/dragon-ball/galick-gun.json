@@ -1,0 +1,46 @@
+{
+  "id": "dragon-ball-galick-gun",
+  "anime": "Dragon Ball",
+  "animeSlug": "dragon-ball",
+  "name": "Galick Gun",
+  "difficulty": "Intermediate",
+  "description": "Both hands are pressed together at chest height and thrust forward, launching a focused beam of energy.",
+  "estimatedLearningTimeMinutes": 8,
+  "previewAsset": "/images/skills/dragon-ball/galick-gun-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand tall with a slight forward lean.",
+      "pose": "dragon-ball-galick-gun-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Press both palms together in front of your chest.",
+      "pose": "dragon-ball-galick-gun-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Draw the joined hands back slightly toward your body.",
+      "pose": "dragon-ball-galick-gun-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Thrust both hands forward in one motion.",
+      "pose": "dragon-ball-galick-gun-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Extend fully with palms angled toward the target.",
+      "pose": "dragon-ball-galick-gun-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "dragon-ball-galick-gun-pose-1",
+    "dragon-ball-galick-gun-pose-2",
+    "dragon-ball-galick-gun-pose-3",
+    "dragon-ball-galick-gun-pose-4",
+    "dragon-ball-galick-gun-pose-5"
+  ],
+  "completionEffect": "energy-beam-purple",
+  "xpReward": 190
+}

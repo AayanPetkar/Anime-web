@@ -1,0 +1,14 @@
+{
+  "id": "naruto-fireball-jutsu-pose-3",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 45,
+    "rightShoulder": 45,
+    "leftKnee": 118,
+    "rightKnee": 118
+  },
+  "toleranceDeg": 28,
+  "torsoLean": 6,
+  "orientation": "front"
+}

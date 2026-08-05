@@ -1,0 +1,18 @@
+{
+  "id": "jujutsu-kaisen-black-flash-stance-pose-3",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 45,
+    "rightShoulder": 45,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 24,
+  "torsoLean": 6,
+  "orientation": "front",
+  "hands": {
+    "left": "relaxed",
+    "right": "relaxed"
+  }
+}

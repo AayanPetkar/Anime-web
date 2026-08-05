@@ -1,0 +1,46 @@
+{
+  "id": "demon-slayer-thunder-breathing",
+  "anime": "Demon Slayer",
+  "animeSlug": "demon-slayer",
+  "name": "Thunder Breathing Pose",
+  "difficulty": "Intermediate",
+  "description": "A style built for explosive first-strike speed, loading power into the legs before a single rapid burst forward.",
+  "estimatedLearningTimeMinutes": 8,
+  "previewAsset": "/images/skills/demon-slayer/thunder-breathing-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Crouch low with most of your weight on your back leg.",
+      "pose": "demon-slayer-thunder-breathing-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Hold both hands together low, as if sheathing a blade.",
+      "pose": "demon-slayer-thunder-breathing-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Tense through the legs and core, staying still.",
+      "pose": "demon-slayer-thunder-breathing-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Explode forward in a single quick step.",
+      "pose": "demon-slayer-thunder-breathing-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Follow through with a fast horizontal arm sweep.",
+      "pose": "demon-slayer-thunder-breathing-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "demon-slayer-thunder-breathing-pose-1",
+    "demon-slayer-thunder-breathing-pose-2",
+    "demon-slayer-thunder-breathing-pose-3",
+    "demon-slayer-thunder-breathing-pose-4",
+    "demon-slayer-thunder-breathing-pose-5"
+  ],
+  "completionEffect": "lightning-dash-yellow",
+  "xpReward": 200
+}

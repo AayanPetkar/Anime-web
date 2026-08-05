@@ -1,0 +1,18 @@
+{
+  "id": "dragon-ball-spirit-bomb-pose-2",
+  "bodyAngles": {
+    "leftElbow": 105,
+    "rightElbow": 105,
+    "leftShoulder": 165,
+    "rightShoulder": 165,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 24,
+  "torsoLean": 14,
+  "orientation": "front",
+  "hands": {
+    "left": "relaxed",
+    "right": "relaxed"
+  }
+}

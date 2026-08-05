@@ -1,0 +1,46 @@
+{
+  "id": "demon-slayer-flame-breathing",
+  "anime": "Demon Slayer",
+  "animeSlug": "demon-slayer",
+  "name": "Flame Breathing Stance",
+  "difficulty": "Advanced",
+  "description": "An explosive breathing style that channels sharp exhales into powerful, fast overhead strikes.",
+  "estimatedLearningTimeMinutes": 11,
+  "previewAsset": "/images/skills/demon-slayer/flame-breathing-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Root your back foot and bend the front knee deeply.",
+      "pose": "demon-slayer-flame-breathing-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Raise both hands overhead as if gripping a blade.",
+      "pose": "demon-slayer-flame-breathing-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Inhale sharply, expanding through the chest.",
+      "pose": "demon-slayer-flame-breathing-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Drive both arms downward in a fast overhead strike.",
+      "pose": "demon-slayer-flame-breathing-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Exhale forcefully at the moment of the strike.",
+      "pose": "demon-slayer-flame-breathing-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "demon-slayer-flame-breathing-pose-1",
+    "demon-slayer-flame-breathing-pose-2",
+    "demon-slayer-flame-breathing-pose-3",
+    "demon-slayer-flame-breathing-pose-4",
+    "demon-slayer-flame-breathing-pose-5"
+  ],
+  "completionEffect": "flame-slash-orange",
+  "xpReward": 240
+}

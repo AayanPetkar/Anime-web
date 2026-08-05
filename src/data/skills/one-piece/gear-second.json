@@ -1,0 +1,46 @@
+{
+  "id": "one-piece-gear-second",
+  "anime": "One Piece",
+  "animeSlug": "one-piece",
+  "name": "Gear Second Pose",
+  "difficulty": "Intermediate",
+  "description": "A high-speed readiness stance: weight low, arms loose, and breathing sharp in preparation for a burst of rapid motion.",
+  "estimatedLearningTimeMinutes": 7,
+  "previewAsset": "/images/skills/one-piece/gear-second-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Bend both knees into an athletic ready stance.",
+      "pose": "one-piece-gear-second-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Keep your arms loose and slightly bent at your sides.",
+      "pose": "one-piece-gear-second-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Take a few sharp, quick breaths.",
+      "pose": "one-piece-gear-second-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Rock your weight onto the balls of your feet.",
+      "pose": "one-piece-gear-second-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Hold the stance steady, ready to explode into motion.",
+      "pose": "one-piece-gear-second-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "one-piece-gear-second-pose-1",
+    "one-piece-gear-second-pose-2",
+    "one-piece-gear-second-pose-3",
+    "one-piece-gear-second-pose-4",
+    "one-piece-gear-second-pose-5"
+  ],
+  "completionEffect": "speed-aura-pink",
+  "xpReward": 180
+}

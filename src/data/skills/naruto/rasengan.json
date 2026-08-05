@@ -1,0 +1,46 @@
+{
+  "id": "naruto-rasengan",
+  "anime": "Naruto",
+  "animeSlug": "naruto",
+  "name": "Rasengan",
+  "difficulty": "Intermediate",
+  "description": "A rotating sphere of concentrated chakra is shaped and held steady in a single open palm, using rotation instead of hand seals.",
+  "estimatedLearningTimeMinutes": 8,
+  "previewAsset": "/images/skills/naruto/rasengan-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand with feet shoulder-width apart and knees soft.",
+      "pose": "naruto-rasengan-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Extend one arm forward, palm facing up, elbow slightly bent.",
+      "pose": "naruto-rasengan-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Cup the opposite hand briefly above the palm as if shaping a ball of energy.",
+      "pose": "naruto-rasengan-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Hold the palm steady and flat, fingers relaxed and slightly curled.",
+      "pose": "naruto-rasengan-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Keep the supporting arm tucked at your side for balance.",
+      "pose": "naruto-rasengan-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "naruto-rasengan-pose-1",
+    "naruto-rasengan-pose-2",
+    "naruto-rasengan-pose-3",
+    "naruto-rasengan-pose-4",
+    "naruto-rasengan-pose-5"
+  ],
+  "completionEffect": "energy-orb-blue",
+  "xpReward": 150
+}

@@ -1,0 +1,18 @@
+{
+  "id": "avatar-earth-bending-pose-3",
+  "bodyAngles": {
+    "leftElbow": 55,
+    "rightElbow": 55,
+    "leftShoulder": 100,
+    "rightShoulder": 100,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 28,
+  "torsoLean": 6,
+  "orientation": "front",
+  "hands": {
+    "left": "fist",
+    "right": "fist"
+  }
+}

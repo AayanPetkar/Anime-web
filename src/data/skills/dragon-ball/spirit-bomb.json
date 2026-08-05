@@ -1,0 +1,46 @@
+{
+  "id": "dragon-ball-spirit-bomb",
+  "anime": "Dragon Ball",
+  "animeSlug": "dragon-ball",
+  "name": "Spirit Bomb",
+  "difficulty": "Advanced",
+  "description": "Arms are raised overhead, palms up, to gather a massive sphere of energy above the user before hurling it forward.",
+  "estimatedLearningTimeMinutes": 14,
+  "previewAsset": "/images/skills/dragon-ball/spirit-bomb-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand with feet grounded and steady.",
+      "pose": "dragon-ball-spirit-bomb-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Raise both arms slowly overhead, palms facing up.",
+      "pose": "dragon-ball-spirit-bomb-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Hold the pose, tilting your head up as if watching energy gather.",
+      "pose": "dragon-ball-spirit-bomb-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Bring the arms down and inward as if grasping a large sphere.",
+      "pose": "dragon-ball-spirit-bomb-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Thrust both arms forward to hurl the gathered energy.",
+      "pose": "dragon-ball-spirit-bomb-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "dragon-ball-spirit-bomb-pose-1",
+    "dragon-ball-spirit-bomb-pose-2",
+    "dragon-ball-spirit-bomb-pose-3",
+    "dragon-ball-spirit-bomb-pose-4",
+    "dragon-ball-spirit-bomb-pose-5"
+  ],
+  "completionEffect": "energy-sphere-overhead",
+  "xpReward": 280
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jujutsu-kaisen-black-flash-stance-pose-1",
+  "bodyAngles": {
+    "leftElbow": 55,
+    "rightElbow": 55,
+    "leftShoulder": 45,
+    "rightShoulder": 45,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 24,
+  "torsoLean": 6,
+  "orientation": "front"
+}

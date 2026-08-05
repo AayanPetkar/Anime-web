@@ -1,0 +1,46 @@
+{
+  "id": "naruto-shadow-clone-jutsu",
+  "anime": "Naruto",
+  "animeSlug": "naruto",
+  "name": "Shadow Clone Jutsu",
+  "difficulty": "Beginner",
+  "description": "A cross-shaped hand seal splits focus and chakra to project the appearance of duplicate copies standing beside you.",
+  "estimatedLearningTimeMinutes": 6,
+  "previewAsset": "/images/skills/naruto/shadow-clone-jutsu-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand centered with feet together.",
+      "pose": "naruto-shadow-clone-jutsu-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Cross your index and middle fingers on both hands.",
+      "pose": "naruto-shadow-clone-jutsu-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Bring the crossed fingers together in front of your chest.",
+      "pose": "naruto-shadow-clone-jutsu-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Hold the seal steady and firm for a beat.",
+      "pose": "naruto-shadow-clone-jutsu-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Release the seal and step slightly to either side.",
+      "pose": "naruto-shadow-clone-jutsu-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "naruto-shadow-clone-jutsu-pose-1",
+    "naruto-shadow-clone-jutsu-pose-2",
+    "naruto-shadow-clone-jutsu-pose-3",
+    "naruto-shadow-clone-jutsu-pose-4",
+    "naruto-shadow-clone-jutsu-pose-5"
+  ],
+  "completionEffect": "shadow-duplicate",
+  "xpReward": 100
+}

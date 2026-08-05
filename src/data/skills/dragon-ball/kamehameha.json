@@ -1,0 +1,46 @@
+{
+  "id": "dragon-ball-kamehameha",
+  "anime": "Dragon Ball",
+  "animeSlug": "dragon-ball",
+  "name": "Kamehameha",
+  "difficulty": "Beginner",
+  "description": "The signature energy wave: hands are cupped at the hip, energy is gathered, then released forward with full extension.",
+  "estimatedLearningTimeMinutes": 5,
+  "previewAsset": "/images/skills/dragon-ball/kamehameha-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand with feet planted shoulder-width apart.",
+      "pose": "dragon-ball-kamehameha-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Cup both hands together at your hip, palms facing each other.",
+      "pose": "dragon-ball-kamehameha-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Bend knees slightly and lower your center of gravity.",
+      "pose": "dragon-ball-kamehameha-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Drive both hands forward together in a straight line.",
+      "pose": "dragon-ball-kamehameha-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Fully extend both arms at the moment of release.",
+      "pose": "dragon-ball-kamehameha-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "dragon-ball-kamehameha-pose-1",
+    "dragon-ball-kamehameha-pose-2",
+    "dragon-ball-kamehameha-pose-3",
+    "dragon-ball-kamehameha-pose-4",
+    "dragon-ball-kamehameha-pose-5"
+  ],
+  "completionEffect": "energy-beam-blue",
+  "xpReward": 100
+}

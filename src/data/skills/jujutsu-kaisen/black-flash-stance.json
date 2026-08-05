@@ -1,0 +1,46 @@
+{
+  "id": "jujutsu-kaisen-black-flash-stance",
+  "anime": "Jujutsu Kaisen",
+  "animeSlug": "jujutsu-kaisen",
+  "name": "Black Flash Stance",
+  "difficulty": "Advanced",
+  "description": "A tightly wound striking stance built around a single, perfectly timed close-range strike.",
+  "estimatedLearningTimeMinutes": 9,
+  "previewAsset": "/images/skills/jujutsu-kaisen/black-flash-stance-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Coil your striking arm close to your body.",
+      "pose": "jujutsu-kaisen-black-flash-stance-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Bend both knees and lower your hips slightly.",
+      "pose": "jujutsu-kaisen-black-flash-stance-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Keep your non-striking hand guarding near your chest.",
+      "pose": "jujutsu-kaisen-black-flash-stance-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Rotate your hips as you prepare to strike.",
+      "pose": "jujutsu-kaisen-black-flash-stance-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Snap the strike forward with full extension at the last instant.",
+      "pose": "jujutsu-kaisen-black-flash-stance-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "jujutsu-kaisen-black-flash-stance-pose-1",
+    "jujutsu-kaisen-black-flash-stance-pose-2",
+    "jujutsu-kaisen-black-flash-stance-pose-3",
+    "jujutsu-kaisen-black-flash-stance-pose-4",
+    "jujutsu-kaisen-black-flash-stance-pose-5"
+  ],
+  "completionEffect": "impact-flash-black",
+  "xpReward": 250
+}

@@ -1,0 +1,14 @@
+{
+  "id": "naruto-chidori-pose-1",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 45,
+    "rightShoulder": 45,
+    "leftKnee": 118,
+    "rightKnee": 118
+  },
+  "toleranceDeg": 24,
+  "torsoLean": 22,
+  "orientation": "front"
+}

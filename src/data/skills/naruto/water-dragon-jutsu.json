@@ -1,0 +1,46 @@
+{
+  "id": "naruto-water-dragon-jutsu",
+  "anime": "Naruto",
+  "animeSlug": "naruto",
+  "name": "Water Dragon Jutsu",
+  "difficulty": "Advanced",
+  "description": "A long sequence of hand seals and a sweeping arm motion summon a serpentine dragon shape from a nearby water source.",
+  "estimatedLearningTimeMinutes": 12,
+  "previewAsset": "/images/skills/naruto/water-dragon-jutsu-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Begin in a wide, grounded stance facing your water source.",
+      "pose": "naruto-water-dragon-jutsu-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Move through a rapid sequence of hand seals.",
+      "pose": "naruto-water-dragon-jutsu-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Sweep both arms outward and upward in a rising arc.",
+      "pose": "naruto-water-dragon-jutsu-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Bring your hands forward together, palms out.",
+      "pose": "naruto-water-dragon-jutsu-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Follow through with a twisting motion as if guiding a coiling shape.",
+      "pose": "naruto-water-dragon-jutsu-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "naruto-water-dragon-jutsu-pose-1",
+    "naruto-water-dragon-jutsu-pose-2",
+    "naruto-water-dragon-jutsu-pose-3",
+    "naruto-water-dragon-jutsu-pose-4",
+    "naruto-water-dragon-jutsu-pose-5"
+  ],
+  "completionEffect": "water-serpent",
+  "xpReward": 260
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bleach-bankai-activation-pose-2",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 25,
+    "rightShoulder": 25,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 28,
+  "torsoLean": 6,
+  "orientation": "front",
+  "hands": {
+    "left": "fist",
+    "right": "fist"
+  }
+}

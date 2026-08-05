@@ -1,0 +1,19 @@
+{
+  "id": "example-skill",
+  "anime": "Example Anime",
+  "name": "Example Technique",
+  "difficulty": "Beginner",
+  "description": "Describe the move here.",
+  "estimatedLearningTimeMinutes": 5,
+  "previewAsset": "/images/skills/example/example-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "First body position.",
+      "pose": "reference-pose-id-1"
+    }
+  ],
+  "referencePoses": ["reference-pose-id-1"],
+  "completionEffect": "generic-glow",
+  "xpReward": 100
+}

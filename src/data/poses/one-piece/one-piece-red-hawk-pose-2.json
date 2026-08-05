@@ -1,0 +1,14 @@
+{
+  "id": "one-piece-red-hawk-pose-2",
+  "bodyAngles": {
+    "leftElbow": 105,
+    "rightElbow": 105,
+    "leftShoulder": 165,
+    "rightShoulder": 165,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 28,
+  "torsoLean": 6,
+  "orientation": "front"
+}

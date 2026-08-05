@@ -1,0 +1,46 @@
+{
+  "id": "avatar-fire-bending",
+  "anime": "Avatar: The Last Airbender",
+  "animeSlug": "avatar",
+  "name": "Fire Bending Strike",
+  "difficulty": "Intermediate",
+  "description": "A sharp, punching strike style that pairs breath control with quick, linear strikes.",
+  "estimatedLearningTimeMinutes": 8,
+  "previewAsset": "/images/skills/avatar/fire-bending-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand in a low horse stance, weight centered.",
+      "pose": "avatar-fire-bending-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Chamber one fist at your hip.",
+      "pose": "avatar-fire-bending-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Exhale sharply as you prepare to strike.",
+      "pose": "avatar-fire-bending-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Punch straight forward, rotating the fist at the last moment.",
+      "pose": "avatar-fire-bending-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Snap the strike back to the chambered position.",
+      "pose": "avatar-fire-bending-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "avatar-fire-bending-pose-1",
+    "avatar-fire-bending-pose-2",
+    "avatar-fire-bending-pose-3",
+    "avatar-fire-bending-pose-4",
+    "avatar-fire-bending-pose-5"
+  ],
+  "completionEffect": "flame-burst-orange",
+  "xpReward": 170
+}

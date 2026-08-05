@@ -1,0 +1,46 @@
+{
+  "id": "one-piece-gum-gum-pistol",
+  "anime": "One Piece",
+  "animeSlug": "one-piece",
+  "name": "Gum-Gum Pistol",
+  "difficulty": "Beginner",
+  "description": "A rubber-fueled straight punch: the arm winds back, the shoulder snaps through, and the arm fully extends on release.",
+  "estimatedLearningTimeMinutes": 5,
+  "previewAsset": "/images/skills/one-piece/gum-gum-pistol-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand in a relaxed, forward-facing stance.",
+      "pose": "one-piece-gum-gum-pistol-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Wind your punching arm back behind you.",
+      "pose": "one-piece-gum-gum-pistol-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Rotate your shoulders slightly away from the target.",
+      "pose": "one-piece-gum-gum-pistol-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Snap the hips and shoulders forward together.",
+      "pose": "one-piece-gum-gum-pistol-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Extend the arm fully forward at full reach.",
+      "pose": "one-piece-gum-gum-pistol-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "one-piece-gum-gum-pistol-pose-1",
+    "one-piece-gum-gum-pistol-pose-2",
+    "one-piece-gum-gum-pistol-pose-3",
+    "one-piece-gum-gum-pistol-pose-4",
+    "one-piece-gum-gum-pistol-pose-5"
+  ],
+  "completionEffect": "impact-burst-red",
+  "xpReward": 100
+}

@@ -1,0 +1,14 @@
+{
+  "id": "one-piece-gear-second-pose-1",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 45,
+    "rightShoulder": 45,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 28,
+  "torsoLean": 6,
+  "orientation": "front"
+}

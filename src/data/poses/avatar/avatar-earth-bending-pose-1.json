@@ -1,0 +1,14 @@
+{
+  "id": "avatar-earth-bending-pose-1",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 100,
+    "rightShoulder": 100,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 28,
+  "torsoLean": 6,
+  "orientation": "front"
+}

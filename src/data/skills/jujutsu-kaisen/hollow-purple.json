@@ -1,0 +1,46 @@
+{
+  "id": "jujutsu-kaisen-hollow-purple",
+  "anime": "Jujutsu Kaisen",
+  "animeSlug": "jujutsu-kaisen",
+  "name": "Hollow Purple",
+  "difficulty": "Advanced",
+  "description": "Two opposing energy attacks are formed in each hand, then pressed together to merge into one purple burst.",
+  "estimatedLearningTimeMinutes": 12,
+  "previewAsset": "/images/skills/jujutsu-kaisen/hollow-purple-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Extend one hand forward, palm out, fingers spread.",
+      "pose": "jujutsu-kaisen-hollow-purple-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Extend the other hand forward beside it, palm out.",
+      "pose": "jujutsu-kaisen-hollow-purple-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Hold both palms steady, arms fully extended.",
+      "pose": "jujutsu-kaisen-hollow-purple-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Bring both palms together sharply in front of you.",
+      "pose": "jujutsu-kaisen-hollow-purple-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Push forward through the merge point on release.",
+      "pose": "jujutsu-kaisen-hollow-purple-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "jujutsu-kaisen-hollow-purple-pose-1",
+    "jujutsu-kaisen-hollow-purple-pose-2",
+    "jujutsu-kaisen-hollow-purple-pose-3",
+    "jujutsu-kaisen-hollow-purple-pose-4",
+    "jujutsu-kaisen-hollow-purple-pose-5"
+  ],
+  "completionEffect": "void-burst-purple",
+  "xpReward": 260
+}

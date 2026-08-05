@@ -1,0 +1,46 @@
+{
+  "id": "bleach-bankai-activation",
+  "anime": "Bleach",
+  "animeSlug": "bleach",
+  "name": "Bankai Activation Pose",
+  "difficulty": "Intermediate",
+  "description": "A grounded, blade-raised stance marks the moment a fighter's power surges to its released form.",
+  "estimatedLearningTimeMinutes": 7,
+  "previewAsset": "/images/skills/bleach/bankai-activation-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Plant feet firmly apart, knees bent.",
+      "pose": "bleach-bankai-activation-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Hold both hands as if gripping a blade at your side.",
+      "pose": "bleach-bankai-activation-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Lower your stance and tense your core.",
+      "pose": "bleach-bankai-activation-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Raise the blade hand sharply upward.",
+      "pose": "bleach-bankai-activation-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Hold the pose steady as energy is implied to surge around you.",
+      "pose": "bleach-bankai-activation-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "bleach-bankai-activation-pose-1",
+    "bleach-bankai-activation-pose-2",
+    "bleach-bankai-activation-pose-3",
+    "bleach-bankai-activation-pose-4",
+    "bleach-bankai-activation-pose-5"
+  ],
+  "completionEffect": "aura-surge-black",
+  "xpReward": 180
+}

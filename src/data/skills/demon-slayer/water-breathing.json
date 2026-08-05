@@ -1,0 +1,46 @@
+{
+  "id": "demon-slayer-water-breathing",
+  "anime": "Demon Slayer",
+  "animeSlug": "demon-slayer",
+  "name": "Water Breathing: First Form",
+  "difficulty": "Intermediate",
+  "description": "A flowing sword style built on long exhales and fluid footwork, with each cutting form flowing directly into the next.",
+  "estimatedLearningTimeMinutes": 9,
+  "previewAsset": "/images/skills/demon-slayer/water-breathing-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand in a low, bladed stance with one foot forward.",
+      "pose": "demon-slayer-water-breathing-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Hold both hands together as if gripping a sword low at your side.",
+      "pose": "demon-slayer-water-breathing-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Take a slow, controlled breath in.",
+      "pose": "demon-slayer-water-breathing-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Step forward while exhaling and sweeping the arms in an arc.",
+      "pose": "demon-slayer-water-breathing-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Finish with the arms extended, following the arc's direction.",
+      "pose": "demon-slayer-water-breathing-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "demon-slayer-water-breathing-pose-1",
+    "demon-slayer-water-breathing-pose-2",
+    "demon-slayer-water-breathing-pose-3",
+    "demon-slayer-water-breathing-pose-4",
+    "demon-slayer-water-breathing-pose-5"
+  ],
+  "completionEffect": "water-slash-blue",
+  "xpReward": 170
+}

@@ -1,0 +1,46 @@
+{
+  "id": "avatar-earth-bending",
+  "anime": "Avatar: The Last Airbender",
+  "animeSlug": "avatar",
+  "name": "Earth Bending Stance",
+  "difficulty": "Intermediate",
+  "description": "A grounded, rooted stance built around powerful stomps and strong, driving forward strikes.",
+  "estimatedLearningTimeMinutes": 8,
+  "previewAsset": "/images/skills/avatar/earth-bending-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Plant both feet firmly, wider than shoulder-width.",
+      "pose": "avatar-earth-bending-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Bend your knees and sink your weight down.",
+      "pose": "avatar-earth-bending-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Raise one fist chambered at your side.",
+      "pose": "avatar-earth-bending-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Stomp forward with your lead foot as you strike.",
+      "pose": "avatar-earth-bending-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Drive the fist forward low and level.",
+      "pose": "avatar-earth-bending-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "avatar-earth-bending-pose-1",
+    "avatar-earth-bending-pose-2",
+    "avatar-earth-bending-pose-3",
+    "avatar-earth-bending-pose-4",
+    "avatar-earth-bending-pose-5"
+  ],
+  "completionEffect": "rock-burst-brown",
+  "xpReward": 180
+}

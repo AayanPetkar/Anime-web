@@ -1,0 +1,46 @@
+{
+  "id": "avatar-water-bending",
+  "anime": "Avatar: The Last Airbender",
+  "animeSlug": "avatar",
+  "name": "Water Bending Flow",
+  "difficulty": "Beginner",
+  "description": "A slow, circular flowing style that redirects momentum rather than meeting it head-on.",
+  "estimatedLearningTimeMinutes": 6,
+  "previewAsset": "/images/skills/avatar/water-bending-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand with knees soft and weight low.",
+      "pose": "avatar-water-bending-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Extend both arms out in a wide, relaxed circle.",
+      "pose": "avatar-water-bending-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Shift your weight smoothly from one foot to the other.",
+      "pose": "avatar-water-bending-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Trace a continuous circular path with both hands.",
+      "pose": "avatar-water-bending-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Let the motion flow without any sharp stops.",
+      "pose": "avatar-water-bending-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "avatar-water-bending-pose-1",
+    "avatar-water-bending-pose-2",
+    "avatar-water-bending-pose-3",
+    "avatar-water-bending-pose-4",
+    "avatar-water-bending-pose-5"
+  ],
+  "completionEffect": "water-swirl-blue",
+  "xpReward": 110
+}

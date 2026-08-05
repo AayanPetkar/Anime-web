@@ -1,0 +1,14 @@
+{
+  "id": "avatar-air-bending-pose-4",
+  "bodyAngles": {
+    "leftElbow": 140,
+    "rightElbow": 140,
+    "leftShoulder": 100,
+    "rightShoulder": 100,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 32,
+  "torsoLean": 6,
+  "orientation": "right"
+}

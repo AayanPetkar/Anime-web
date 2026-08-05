@@ -1,0 +1,46 @@
+{
+  "id": "one-piece-red-hawk",
+  "anime": "One Piece",
+  "animeSlug": "one-piece",
+  "name": "Red Hawk",
+  "difficulty": "Intermediate",
+  "description": "A heated straight punch thrown with a wide overhead wind-up before driving forward with full commitment.",
+  "estimatedLearningTimeMinutes": 9,
+  "previewAsset": "/images/skills/one-piece/red-hawk-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Plant your feet in a wide, stable stance.",
+      "pose": "one-piece-red-hawk-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Raise your punching arm in a wide overhead arc.",
+      "pose": "one-piece-red-hawk-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Lower into a slight crouch as you load the strike.",
+      "pose": "one-piece-red-hawk-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Drive the arm forward and down through the target line.",
+      "pose": "one-piece-red-hawk-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Extend fully with your fist leading the motion.",
+      "pose": "one-piece-red-hawk-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "one-piece-red-hawk-pose-1",
+    "one-piece-red-hawk-pose-2",
+    "one-piece-red-hawk-pose-3",
+    "one-piece-red-hawk-pose-4",
+    "one-piece-red-hawk-pose-5"
+  ],
+  "completionEffect": "impact-burst-fire",
+  "xpReward": 190
+}

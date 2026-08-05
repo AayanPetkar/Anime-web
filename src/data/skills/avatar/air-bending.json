@@ -1,0 +1,46 @@
+{
+  "id": "avatar-air-bending",
+  "anime": "Avatar: The Last Airbender",
+  "animeSlug": "avatar",
+  "name": "Air Bending Evasion",
+  "difficulty": "Beginner",
+  "description": "A light, evasive footwork style built around quick pivots and sweeping open-palm redirections.",
+  "estimatedLearningTimeMinutes": 6,
+  "previewAsset": "/images/skills/avatar/air-bending-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Stand relaxed with feet close together.",
+      "pose": "avatar-air-bending-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Keep your hands open and loose in front of you.",
+      "pose": "avatar-air-bending-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Pivot quickly on the ball of one foot.",
+      "pose": "avatar-air-bending-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Sweep both arms outward as you turn.",
+      "pose": "avatar-air-bending-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Return lightly to a centered, ready stance.",
+      "pose": "avatar-air-bending-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "avatar-air-bending-pose-1",
+    "avatar-air-bending-pose-2",
+    "avatar-air-bending-pose-3",
+    "avatar-air-bending-pose-4",
+    "avatar-air-bending-pose-5"
+  ],
+  "completionEffect": "wind-swirl-cyan",
+  "xpReward": 120
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dragon-ball-final-flash",
+  "anime": "Dragon Ball",
+  "animeSlug": "dragon-ball",
+  "name": "Final Flash",
+  "difficulty": "Advanced",
+  "description": "Both arms are drawn wide to the sides to gather energy before crossing forward into a single devastating blast.",
+  "estimatedLearningTimeMinutes": 11,
+  "previewAsset": "/images/skills/dragon-ball/final-flash-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Plant feet wide in a stable horse stance.",
+      "pose": "dragon-ball-final-flash-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Sweep both arms out to your sides, palms open.",
+      "pose": "dragon-ball-final-flash-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Hold the pose while gathering energy for a beat.",
+      "pose": "dragon-ball-final-flash-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Bring both palms forward and together sharply.",
+      "pose": "dragon-ball-final-flash-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Lock elbows straight as you release forward.",
+      "pose": "dragon-ball-final-flash-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "dragon-ball-final-flash-pose-1",
+    "dragon-ball-final-flash-pose-2",
+    "dragon-ball-final-flash-pose-3",
+    "dragon-ball-final-flash-pose-4",
+    "dragon-ball-final-flash-pose-5"
+  ],
+  "completionEffect": "energy-beam-orange",
+  "xpReward": 240
+}

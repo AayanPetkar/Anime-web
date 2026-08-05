@@ -1,0 +1,14 @@
+{
+  "id": "one-piece-gum-gum-pistol-pose-5",
+  "bodyAngles": {
+    "leftElbow": 172,
+    "rightElbow": 172,
+    "leftShoulder": 45,
+    "rightShoulder": 45,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 32,
+  "torsoLean": 6,
+  "orientation": "front"
+}

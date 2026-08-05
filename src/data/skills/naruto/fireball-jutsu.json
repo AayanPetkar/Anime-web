@@ -1,0 +1,46 @@
+{
+  "id": "naruto-fireball-jutsu",
+  "anime": "Naruto",
+  "animeSlug": "naruto",
+  "name": "Fire Style: Fireball Jutsu",
+  "difficulty": "Intermediate",
+  "description": "A large fire blast is exhaled after forming a sequence of hand seals and taking a deep, controlled breath.",
+  "estimatedLearningTimeMinutes": 9,
+  "previewAsset": "/images/skills/naruto/fireball-jutsu-preview.gif",
+  "steps": [
+    {
+      "id": 1,
+      "instruction": "Form a sequence of hand seals in front of your chest.",
+      "pose": "naruto-fireball-jutsu-pose-1"
+    },
+    {
+      "id": 2,
+      "instruction": "Bring both hands together near your mouth in a circle shape.",
+      "pose": "naruto-fireball-jutsu-pose-2"
+    },
+    {
+      "id": 3,
+      "instruction": "Inhale deeply, expanding the chest.",
+      "pose": "naruto-fireball-jutsu-pose-3"
+    },
+    {
+      "id": 4,
+      "instruction": "Tilt the chin slightly upward.",
+      "pose": "naruto-fireball-jutsu-pose-4"
+    },
+    {
+      "id": 5,
+      "instruction": "Exhale forcefully forward as if projecting a large breath.",
+      "pose": "naruto-fireball-jutsu-pose-5"
+    }
+  ],
+  "referencePoses": [
+    "naruto-fireball-jutsu-pose-1",
+    "naruto-fireball-jutsu-pose-2",
+    "naruto-fireball-jutsu-pose-3",
+    "naruto-fireball-jutsu-pose-4",
+    "naruto-fireball-jutsu-pose-5"
+  ],
+  "completionEffect": "flame-burst",
+  "xpReward": 170
+}

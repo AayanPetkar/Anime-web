@@ -1,0 +1,18 @@
+{
+  "id": "jujutsu-kaisen-hollow-purple-pose-1",
+  "bodyAngles": {
+    "leftElbow": 172,
+    "rightElbow": 172,
+    "leftShoulder": 45,
+    "rightShoulder": 45,
+    "leftKnee": 168,
+    "rightKnee": 168
+  },
+  "toleranceDeg": 24,
+  "torsoLean": 6,
+  "orientation": "front",
+  "hands": {
+    "left": "open",
+    "right": "open"
+  }
+}
